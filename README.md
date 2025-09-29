@@ -1,7 +1,7 @@
 # こんにちは！👋 小夏(572nacchan)です
 
 ## 🎮 自己紹介
-- YouTubeでゲーム実況とVlogやってます！
+- YouTubeやってます！
 - ユーフォニアム吹いてます🎺
 - カープファン⚾ 優勝信じてる！
 
@@ -11,11 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-## 🔧 開発環境
-- GPU: NVIDIA GeForce RTX 3060 Ti
-- CPU: Intel Core i7-12700
-- メモリ: 16GB
 
 ## 📺 SNS
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@572EuTube)
