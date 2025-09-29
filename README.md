@@ -26,5 +26,8 @@
 
 ![よく使う言語](https://github-readme-stats.vercel.app/api/top-langs/?username=572nacchan&layout=compact&theme=tokyonight&locale=ja)
 
+## 🏆 GitHub トロフィー
+![trophy](https://github-profile-trophy.vercel.app/?username=572nacchan&theme=onedark&no-frame=true&row=1&column=7)
+
 ---
 💡 現在エンジニアとしてのスキルアップ中！
