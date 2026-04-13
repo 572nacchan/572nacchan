@@ -43,7 +43,7 @@ Content creator & tinkerer — building tools that make my creative life easier.
 ![572nacchanのGitHub統計](https://github-readme-stats-psi-brown-41.vercel.app/api?username=572nacchan&show_icons=true&theme=tokyonight&locale=ja&hide_border=true)
 ![よく使う言語](https://github-readme-stats-psi-brown-41.vercel.app/api/top-langs/?username=572nacchan&layout=compact&theme=tokyonight&locale=ja&hide_border=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=572nacchan&theme=onedark&no-frame=true&row=1&column=7)
+![trophy](https://github-profile-trophy-lime-six.vercel.app/?username=572nacchan&theme=onedark&no-frame=true&row=1&column=7)
 
 ---
 
